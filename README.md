@@ -17,7 +17,8 @@ This code manipulates lists of movies.
 
 ## Run
 
-To execute the code use the option of c++ 11: **-std=c++11**. *Observation*: in CodeBlocks this option can be enable in Settings/Compiler.
+To execute the code use the option of c++ 11: **-std=c++11**. 
+*Observation*: in CodeBlocks this option can be enabled in Settings/Compiler.
 
 
 #### This was an assignment for File and Data Organization class by MSc José Maciel from University of Passo Fundo in 2016-1.
